@@ -1,0 +1,24 @@
+# Maven build artifacts
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Test Execution Output & Logs
+test-output/
+reports/screenshots/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
